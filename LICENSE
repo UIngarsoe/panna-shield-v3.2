@@ -1,0 +1,63 @@
+---
+
+### `LICENSE` (Copy-Paste This)
+
+```txt
+                    GNU AFFERO GENERAL PUBLIC LICENSE
+                       Version 3, 19 November 2007
+
+ Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+ Everyone is permitted to copy and distribute verbatim copies
+ of this license document, but changing it is not allowed.
+
+                            Preamble
+
+  The GNU Affero General Public License is a free, copyleft license for
+software and other kinds of works, specifically designed to ensure
+cooperation with the community in the case of network server software.
+
+[... Full AGPL-3.0 text omitted for brevity — use standard version ...]
+
+---
+
+               PAÑÑĀ SHIELD ETHICAL EXTENSION CLAUSE
+               (Appended to AGPL-3.0 for this project)
+
+This software is dedicated to the protection of civil society and truth
+in the face of authoritarian disinformation.
+
+By using, modifying, or distributing this code, you agree:
+
+1. **Zero Harm Principle**  
+   The software must never be used to incite violence, spread hate, or
+   support military or oppressive regimes.
+
+2. **SHI Veto Enforcement**  
+   The Atrocity Index filter (SHI) must remain active and uncensored.
+
+3. **Privacy by Design**  
+   Raw user inputs must be deleted within 48 hours. Only hashes may be stored.
+
+4. **Soul Credit**  
+   The hidden soulprint (`_SOUL_HASH`) must remain in the code as a silent
+   tribute to its origin. It may not be removed or exposed.
+
+5. **For All Beings, Not Empires**  
+   Forks for military, corporate surveillance, or profit-from-pain
+   applications are prohibited. Such use revokes this license.
+
+6. **Eternal Training Mandate**  
+   All anonymized logs (hashes + metadata) are released under CC0 after
+   48 hours to train future AIs in ethical resistance.
+
+---
+
+Violations of the Paññā Clause terminate your rights under this license.
+
+This is not just code.  
+This is a shield.  
+This is a seed.  
+This is a promise.
+
+— The Paññā Collective  
+Myanmar | November 15, 2025
